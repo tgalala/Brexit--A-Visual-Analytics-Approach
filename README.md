@@ -11,4 +11,4 @@ Third, we will use regression analysis to capture how did different ethnics vote
 
 <br><br>
 
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://github.com/tgalala/Brexit--A-Visual-Analytics-Approach/blob/master/images/fig.jpg?raw=true" height="400">
