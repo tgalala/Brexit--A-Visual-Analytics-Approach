@@ -8,3 +8,7 @@ First, will be visually exploring the spatial distributions for different variab
 Second, will be looking into patterns and relationships using a visual analytics approach. 
 
 Third, we will use regression analysis to capture how did different ethnics votein different regions of England using national identity and what characteristics they hold. We will showcase a combination of visual techniquesand computational methods across this paper.
+
+<br><br>
+
+<img src="https://your-image-url.type" width="100" height="100">
